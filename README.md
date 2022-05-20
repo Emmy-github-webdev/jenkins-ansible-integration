@@ -1,2 +1,2 @@
 # jenkins-ansible-integration
-testing jenkins artifacts trigger action
+testing jenkins artifacts trigger actions
